@@ -9,20 +9,23 @@ Originally launched as a meme token on another L2, PBTC has since relaunched wit
 
 PBTC is more than just a token. It’s the foundation for a growing ecosystem of tools and services:
 
-### 🟢 Token Forge *(in development)*
+### 🟢 Token Forge
 A customizable, no-code token launchpad for meme coins and serious projects alike:
 - Optional team/dev allocations with vesting
 - Built-in liquidity lock options
 - Optional whale protection settings
-- Clean UX for both buyers and project creators
+- Clean UX for both buyers and project creators  
 
-### 🛍️ Merch Platform *(in development)*
-A print-on-demand system for token projects to offer branded merch with zero overhead.  
-Creators upload designs, we handle fulfillment, and they earn per sale.
+Additional features are under active development.
 
-### 💳 Payment Gateway *(in development)*
+### 🛍️ Merch Platform
+Our first merch store is live, offering PBTC and crypto-themed designs.  
+The next phase — planned for **Q4 2025** — is a fully integrated print-on-demand platform where token creators can publish merch for their own communities. This will connect directly with the PBTC payment gateway.
+
+### 💳 Payment Gateway *(planned Q4 2025)*
 A lightweight crypto payment system for websites and online stores.  
-Accept tokens from the PBTC ecosystem — payments auto-convert to USDT for merchants.
+It will first power the integrated Merch Platform, and later be available for other projects to embed and use.  
+Payments auto-convert to USDT for merchants.
 
 ---
 
@@ -42,12 +45,10 @@ Base allows us to scale confidently while staying accessible.
 
 ## 📁 Public Repos
 
-This GitHub organization hosts selected public files from the PBTC ecosystem, including:
+This GitHub organization publishes the **smart contracts** that power the PBTC ecosystem, including:
 - Contract interfaces and ABIs
-- Public documentation and launchpad standards
-- Frontend components (where applicable)
-
-More will be published as products move from development to production.
+- Launchpad logic
+- Onchain utilities
 
 ---
 
@@ -58,5 +59,3 @@ More will be published as products move from development to production.
 - Telegram: [t.me/PepeBitcoinPBTC](https://t.me/PepeBitcoinPBTC)
 
 ---
-
-*PBTC is built for the next wave of token creators — simple, scalable, and powered by real utility.*
