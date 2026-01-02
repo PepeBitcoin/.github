@@ -54,8 +54,8 @@ This GitHub organization publishes the **smart contracts** that power the PBTC e
 
 ## 📫 Stay Connected
 
-- Website: [https://www.pepe-bitcoin.com](https://www.pepe-bitcoin.com)  
-- X (Twitter): [@PepeBitcoinPBTC](https://x.com/PepeBitcoinPBTC)  
-- Telegram: [t.me/PepeBitcoinPBTC](https://t.me/PepeBitcoinPBTC)
+- Website: [https://www.tokenforge-base.com](https://www.tokenforge-base.com)  
+- X (Twitter): [@tokenforge_base](https://x.com/tokenforge_base)  
+- Telegram: [t.me/tokenforge_base](https://t.me/tokenforge_base)
 
 ---
